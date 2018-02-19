@@ -20,7 +20,7 @@ module.exports = function(grunt) {
         files: {
           expand: true,
           flatten: true,
-          cwd: './bower_components/',
+          cwd: './node_modules/',
           src: ['jquery/dist/jquery.min.js', 'bootstrap/dist/js/bootstrap.min.js',],
           dest: './public/assets/javascript/'
           //'./bower_components/jquery/dist/bootstrap.min.js': './public/assets/javascript/jquery.min.js',
