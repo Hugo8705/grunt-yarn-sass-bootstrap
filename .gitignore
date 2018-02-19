@@ -1,0 +1,10 @@
+# Node packages downloaded via "yarn install"
+node_modules/
+
+# Ignore the fonts/js/css that gets built
+public/assets/fonts/
+public/assets/javascript/
+public/assets/stylesheets/
+
+# Misc files types
+*.DS_Store

@@ -1,0 +1,21 @@
+{
+  "name": "grunt-yarn-sass-bootstrap",
+  "version": "1.0.0",
+  "description": "Projet Bootstrap avec SASS, utilisant Grunt et Yarn",
+  "main": "index.js",
+  "repository": "https://github.com/Hugo8705/grunt-yarn-sass-bootstrap",
+  "author": "Hugo Chaume",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "grunt": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.1.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
